@@ -11,8 +11,16 @@ A real-time object anomaly detector with a **Cyberpunk 2077 / Arasaka Corp** aes
 ![NET-SCAN Terminal](screenshots/Screen1.png)
 *Live terminal output showing scan results, threat table, and identified objects*
 
-![NET-SCAN Annotated Output](screenshots/Screen2.jpg)
+![NET-SCAN Annotated Output](screenshots/Screen2.png)
 *Cyberpunk HUD overlay with neon bounding boxes, threat bar, and corner brackets*
+
+(screenshots/Screen3.png)
+
+
+(screenshots/Screen4.png)
+
+
+(screenshots/Screen5.png)
 
 ---
 
